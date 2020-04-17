@@ -1,7 +1,7 @@
 
 `{} mjson <http://myjson.com>`
 ========================
-# myjson.com is no longer available. But we as users wull always be thankful for the service. Thank you Lance Ramoth
+# myjson.com is no longer available. But we as users will always be thankful for the service. Thank you Lance Ramoth
 Quickly, freely host json data with this Python wrapper for the _{} mjson <http://myjson.com>_ free beta service.
 
 # Install
